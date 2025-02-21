@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     setuptools.setup(
         name="oui_extras",
-        version="0.1",
+        version="0.3.0",
         author_email="ohmajesticlama@gmail.com",
         description="Python package to support investment.",
         long_description=long_description,
@@ -39,6 +39,7 @@ if __name__ == "__main__":
         install_requires=[
             "langgraph>=0.2,<0.3",
             "pydantic>=2.10,<3.0",
+            "beautifulsoup4>=4.12,<5.0",
         ],
         extras_require={
             "dev": [

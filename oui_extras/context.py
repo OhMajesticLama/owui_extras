@@ -1,4 +1,12 @@
+import uuid
+import re
+
+from typing import Optional
+
+import bs4
 from bs4 import BeautifulSoup
+
+from .constants import LOGGER
 
 
 # Helpers to manage xml context

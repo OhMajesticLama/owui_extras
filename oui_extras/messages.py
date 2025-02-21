@@ -1,3 +1,6 @@
+from typing import List, Dict, Optional, Tuple
+
+
 def get_last_message(
     messages: List[Dict[str, str]], role: str
 ) -> Tuple[Optional[Dict[str, str]], Optional[int]]:
