@@ -28,8 +28,8 @@ if __name__ == "__main__":
         long_description = fh.read()
 
     setuptools.setup(
-        name="oui_extras",
-        version="0.3.0",
+        name="owui_extras",
+        version="0.4.0",
         author_email="ohmajesticlama@gmail.com",
         description="Python package to support investment.",
         long_description=long_description,
