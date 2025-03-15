@@ -1,4 +1,4 @@
-# oui_extras
+# owui_extras
 
 *This project is not an official OpenWebUI package nor is it endorsed by the OpenWebUI project.*
 
