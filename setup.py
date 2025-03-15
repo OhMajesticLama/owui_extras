@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     setuptools.setup(
         name="owui_extras",
-        version="0.4.0",
+        version="0.4.1",
         author_email="ohmajesticlama@gmail.com",
         description="Python package to support investment.",
         long_description=long_description,
